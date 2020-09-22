@@ -1,8 +1,9 @@
-def "Tic_Tac_Toe_Board"
+def display_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   " 
+end
 
-Tic_Tac_Toe_board
+display_board
